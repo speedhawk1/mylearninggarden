@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#body {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+#titlebg {
+    background: #2e6da4;
+    height: 100%;
+    /*padding-left: 0;*/
+}
+#innerwords {
+    /*background: center center;*/
+}
+#select {
+    height: 100%;
+}
+div#titlebg h1 {
+    color: #f5f5f5;
+    font-size: 60px;
+    font-family: "Consolas",serif;
+    text-align: center;
+}
+div#titlebg h4 {
+    color: beige;
+    font-size: 30px;
+    font-family: "Consolas",serif;
+    text-align: center;
+}
